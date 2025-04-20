@@ -1,16 +1,61 @@
-## Hi there 👋
+## Bienvenido! 👋, soy Danny Carvajal
+*👨‍💻 Software Engineer* | 👨‍🚀**PlatziStudent**
+ 
 
-<!--
-**DannyCarvaja1/DannyCarvaja1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Acerca de mí**  
+--
 
-Here are some ideas to get you started:
+🎓**Enfoque Principal:** Desarrollo de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Ubicación**: Bogotá, Colombia
+
+💼 **Puesto/trabajo actual**: Ingeniero de Software en **Americás BPS**
+
+🌱 **Aprendizaje actual**: Automatización de procesos y herramientas para el desarrollo de software
+
+📚**Educación**:Tecnólogo en ADSI | 7° semestre de Ingeniería de Software en la Universidad Manuela Beltrán (UMB)
+
+
+
+**🚀 Proyectos Destacados**
+--
+
+🔹 Integración de procesos para agendamiento y cancelación de citas en **COMFANDI**, mediante canales corporativos, mejorando la experiencia del usuario final.
+
+
+
+**🛠️ Habilidades y Tecnologías**
+--
+
+**Lenguajes de programación:**
+
+🔹HTML, CSS, JavaScript, C#, Python
+
+**Bases de datos:**
+
+🔹 MySQL
+
+**Control de versiones:**
+
+🔹 Git, GitHub
+
+**Desarrollo e integración de APIs REST/SOAP**
+
+🔹 Consumo e integración de APIs REST y SOAP
+
+🔹Diseño y desarrollo de APIs
+
+
+**🔭 Contacto**
+--
+
+¡Estoy abierto a colaborar en nuevos proyectos, resolver dudas o simplemente tener una buena conversación! 😊
+
+📧 Email: dannycarvajalr@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/dannycarvajalr/
+
+🌐 Portfolio: En construcción...
+
+
+Gracias por visitar mi perfil. ¡Explora mis repositorios y no dudes en escribirme! 😄
