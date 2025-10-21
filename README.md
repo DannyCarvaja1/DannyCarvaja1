@@ -9,11 +9,11 @@
 
 📍 **Ubicación**: Bogotá, Colombia
 
-💼 **Puesto/trabajo actual**: Ingeniero de Software en **Americás BPS**
+💼 **Puesto/trabajo actual**: Ingeniero de Software 
 
 🌱 **Aprendizaje actual**: Automatización de procesos y herramientas para el desarrollo de software
 
-📚**Educación**:Tecnólogo en ADSI | 7° semestre de Ingeniería de Software en la Universidad Manuela Beltrán (UMB)
+📚**Educación**:Tecnólogo en ADSI | 8° semestre de Ingeniería de Software en la Universidad Manuela Beltrán (UMB)
 
 
 
